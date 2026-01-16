@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Kelvin 👋
 
-<!--
-**kelvinakunwa101-design/kelvinakunwa101-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Web Developer focused on building clean, responsive, and user-friendly websites.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Responsive Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build modern frontend websites
+- Turn designs into functional web pages
+- Learn and improve through real projects
+
+## 📂 Projects
+Check out my repositories below to see what I’m working on.
+
+## 📫 Let’s Connect
+- GitHub: https://github.com/kelvinakunwa101-design
+- Open to freelance and job opportunities
